@@ -1,6 +1,6 @@
 {
   "name": "promptkit",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that \u2014 composable, version-controlled prompt components (personas, protocols, formats, templates) that snap together into reliable, repeatable prompts for bug investigation, design docs, code review, security audits,",
   "main": "src/index.js",
   "scripts": {
